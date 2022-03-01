@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The experienced market man and woman: or Profitable instructions, to all masters and mistrisses of families, servants and others, to know the goodness of all sorts of provisions, and prevent being cheated and imposed on ... butchers meat, to know whether young or old, fresh kil'd or stale ... how to know all sorts of poulterers ware ...to know the goodness of badness of all sorts of fish ... directions to prevent being defrauded in buying butter, eggs, cheese, bread, English and outlandish fruits, and other things that may turn to much profite and advantage.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03205</idno>
+            <idno type="STC">Wing E3879</idno>
+            <idno type="STC">ESTC R176889</idno>
+            <idno type="EEBO-CITATION">53299090</idno>
+            <idno type="OCLC">ocm 53299090</idno>
+            <idno type="VID">179856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179856)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2806:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The experienced market man and woman: or Profitable instructions, to all masters and mistrisses of families, servants and others, to know the goodness of all sorts of provisions, and prevent being cheated and imposed on ... butchers meat, to know whether young or old, fresh kil'd or stale ... how to know all sorts of poulterers ware ...to know the goodness of badness of all sorts of fish ... directions to prevent being defrauded in buying butter, eggs, cheese, bread, English and outlandish fruits, and other things that may turn to much profite and advantage.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by James Watson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grocery shopping --  Scotland --  Early works to 1800.</term>
+               <term>Grocery trade --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179856:1" rendition="simple:additions"/>
+            <p>The Experienced <hi>Market MAN and WOMAN:</hi> OR, Profitable Inſtructions, TO ALL Maſters and Miſtriſſes of Families, Servants and others, To know the Goodneſs of all ſorts of Proviſions, and prevent being Cheated and Impoſed on, <hi>viz,</hi>
+            </p>
+            <p>Butchers Meat, to know whether young or old, freſh kil'd or ſtale. To diſcover Bull-beef, Ram-mutton, and other Cheats, Bacon, Hams, Brawns, Veniſon, <hi>&amp;c.</hi> to know good from bad.</p>
+            <p>How to know all ſorts of Poulterers ware, as Fowl young or old, fat or lean, new or ſtale, with Egg or not, Hairs, Rabits, Leverets, <hi>&amp;c.</hi>
+            </p>
+            <p>To know the goodneſs or badneſs of all ſorts of Fiſh, freſh and ſalt; by many ſigns and tokens, and to diſtinguiſh kinds near a like one from the other,</p>
+            <p>Directions to prevent being defrauded in buy<g ref="char:EOLhyphen"/>ing Butter, Eggs, Cheeſe, Bread; Engliſh and Outlandiſh Fruits, and other things that may turn to much Profite and Advantage.</p>
+            <p>
+               <hi>Edinburgh,</hi> Printed and Sold by <hi>James Watſon,</hi> in <hi>Craigs</hi> Cloſs, on the North ſide of the Croſs. 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179856:2" rendition="simple:additions"/>
+            <pb facs="tcp:179856:2"/>
+            <pb facs="tcp:179856:3"/>
+            <head>
+               <hi>THE</hi> Experienced Mercat Man, <hi>&amp;c.</hi>
+            </head>
+            <p>TO be skill'd in buying Fleſh, Fowl, Fiſh, and other Marketings, is not only cre<g ref="char:EOLhyphen"/>ditable and commendable in Maſters and Mi<g ref="char:EOLhyphen"/>ſtreſſes of Families, Servants and others, but by well underſtanding what is good or bad, and to chuſe accordingly, much money may be ſav'd which in buying bad penny worths is in a manner thrown away; wherefore to enable you to avoid being cheated and im<g ref="char:EOLhyphen"/>poſed on, I have put this ſmall Book into a ſmall price, but great in value; for by laying out a penny, you may be inſtructed to ſave many a Pound.</p>
+            <div type="part">
+               <head>Butchers meat young or old, new or ſtale, and many other remarks, and Firſt of Beef.</head>
+               <p>AS for the Pieces I leave to every one to chuſe as they like, or have occaſion; but if it be right Ox-beef, it will have an open, the fat if young, of an Oyly ſoftneſs, and crumbling between your Thumb and Finger; If old, it will be rough &amp; ſpungy, full of skins and ſtrings; If young, the fleſh will be a plea<g ref="char:EOLhyphen"/>ſant Carnation red, the fat whitiſh; If old, it will be a dark duskey Colour, the fat enclin<g ref="char:EOLhyphen"/>ing to yellow.</p>
+               <p>
+                  <hi>Cow-Beef,</hi> This is known by its cloſer grain
+<pb n="3" facs="tcp:179856:3"/>and if young of a cherry colour; the fat white and not ſo brittle as the former; if old, in<g ref="char:EOLhyphen"/>dent it with your Finger, and the lean will in a little time riſe again and fill the hollow<g ref="char:EOLhyphen"/>neſs, the fat will be tough, and ſhrivel up between your Finger and Thumb.</p>
+               <p>
+                  <hi>Bull-Beef:</hi> This looks of a dusky red, in the feeling it is brawny and tough, not to be pinched or eaſily broken with your Nailes the fat groſs and fiberous, ſmells ſtrong and raveniſh, if you rub it warm between your finger and Thumb.</p>
+               <p>
+                  <hi>Newneſs and Staleneſs,</hi> If new, it will be of a lively colour, and feel cool; if ſtale duskey, the veins where they appear black, the meat will feel ſome what warm and clammy, in<g ref="char:EOLhyphen"/>dented, it will ſink down ſpungy.</p>
+               <p>
+                  <hi>Lamb freſh, or ſtale kill'd.</hi> If a fore-quarter view the Neck vein, if it be of a bright blew colour it is freſh, if of a very dusky inclining to green, it is ſtale, and near tainting, not fit to keep, but may indifferently ſerve for preſent ſpending; if keept cool: As for the hind quar<g ref="char:EOLhyphen"/>ter, put your Finger under the Kidney, and if it be a pleaſant ſent it is freſh, if not ſtale kill'd; bend alſo the Huckle bone, if it be ply<g ref="char:EOLhyphen"/>able; it is new, if ſtiff, ſtale.</p>
+               <p>
+                  <hi>Veal.</hi> In the ſhoulder the Vein directs you
+<pb n="4" facs="tcp:179856:4"/>as in the fore-quarter of Lamb; If any clammy ſtabbineſs, or ſpots of green appear, it is grow<g ref="char:EOLhyphen"/>ing muſty or tainting: The loyn firſt taint un<g ref="char:EOLhyphen"/>der the Kidney, the Neck &amp; Beaſt at the upper ends firſt ſhewing a faint yellow, then a dus<g ref="char:EOLhyphen"/>ky green which is the worſt ſymptom of raint<g ref="char:EOLhyphen"/>ing: The Leg flabby, clammy, or the Veins appearing dusky or green, I bid you beware of ſuch a purchaſe:</p>
+               <p>The fleſh of a Bull-calf, is more redder and firm grained than that of a Cow-calf, the fat more curdling and firmer,</p>
+            </div>
+            <div type="part">
+               <head>Mutton young or old, freſh or ſtale, Weather, Ewe or Ram Mutton, Rot, <hi>&amp;c:</hi>
+               </head>
+               <p>IF young the fleſh will pinch up tender and full again; but if old, it will remain ſo, eſpecially in the skinny part. if young the fat will eaſily part from the fleſh; if old not but with difficulty as being skinny and fibe<g ref="char:EOLhyphen"/>rous. Ewe-mutton is of a cloſe grain, the fat white and oyly, if pinched the fleſh of a ligh<g ref="char:EOLhyphen"/>tiſh red; if Weather, the grain is more open, the fat ſome what more firm, the skinny fal<g ref="char:EOLhyphen"/>ling ſooner when pinched up: If Ram-mutton the fleſh will be a very deep yet dusky red, the Fat ſpungy, pinched up it ſoon wrinkles, the fleſh, preſſed riſes preſently, is brawny and
+<pb n="5" facs="tcp:179856:4"/>tough; the fat rubbed between your Fingers caſt a ſcent Raveniſh.</p>
+               <p>
+                  <hi>Pig new or ſtale.</hi> Turn out the leaf of the belly, if the fat be clammy or inclining to gree<g ref="char:EOLhyphen"/>niſh it is ſtale; if of a bright clean white co<g ref="char:EOLhyphen"/>lour new, if the noſe or mouth ſlaver or be clammy, it is ſtale, if clean and dry new, if the hindhochs be ſtiff it's new, if very limber ſtale</p>
+               <p>
+                  <hi>Pork and Brawn.</hi> In Pork the fleſh pinching and breaking; the fat ſoft and oyly, denotes it young, the contrary old; if the Skin hip tender with your nails, it is young, if hard and ruckling then old, or of a Hog that has not been gelded till well grown.</p>
+               <p>If the fleſh of a Boar, or Hog, gelded when well grown, the fleſh will be hard, the fat tough, and in ſcenting have a different ſmell from o<g ref="char:EOLhyphen"/>ther Pork, rawiſh and ſtrong, the fat be full of fibers, <hi>&amp;c.</hi>
+               </p>
+               <p>To know the legs or hands, whether new or ſtale, put your finger between the bone and fleſh, and if upon ſmelling there be any ill ſcent, it is turning, or if the skin be clammy, the ben<g ref="char:EOLhyphen"/>ding of the joynt over limber, the like is to be feared. If you find many knots like hail ſhot, in the fat the Pork is meaſly, the fore-line, hind-line, <hi>&amp;c.</hi> may be known the ſame way.</p>
+               <p>Brawn young or old, is known by the thinneſs
+<pb n="6" facs="tcp:179856:5"/>or thickneſs of the skin, if young the fat will be oyly and crumble, if old rough and moulder as it were between your finger and thumb.</p>
+            </div>
+            <div type="part">
+               <head>To diſcover defects in dryed Hams, or other Bacon.</head>
+               <p>FOr the firſt, thruſt a ſharp pointed Knife under the bone, and if it come out with<g ref="char:EOLhyphen"/>out much greaſing, and preſently ſcented, caſt a pleaſant Savour, the Ham is good, if the contra<g ref="char:EOLhyphen"/>ry not; then try the fat on the edges, raiſe a ſli<g ref="char:EOLhyphen"/>ver, if it be white, firm and well ſcented, it is good; if yellowiſh, and of a greaſy ſoftneſs, it be<g ref="char:EOLhyphen"/>gins to be ruſty there, and thus you may try other Bacon.</p>
+               <p>
+                  <hi>To recover tainted fleſh Veniſon,</hi> &amp;c. Have an Earthen veſſel with a cover all over full of lit<g ref="char:EOLhyphen"/>tle holes, lay in the fleſh with ſweet herbs on the top &amp; bottom, cover all them with a cloath, dig a hole in the ground, and cover the veſſel in it with earth, let it ly twenty four hours, and it will take away the ill ſcent, this eſpecially for Veniſon is very proper, &amp; will recover it when much tainted, &amp; to know if Veniſon be tain<g ref="char:EOLhyphen"/>ted, try it under the bones with a knife, as you do the Hams, for there it firſt begins to taint.</p>
+            </div>
+            <div type="part">
+               <head>Poulterers ware, to know whether new or ſtale, young or old, fat or lean, with Eggs or not:</head>
+               <p>A <hi>Wild Duck.</hi> If a true wild Duck, it has a reddiſh ſmall Foot? If fat it is hard
+<pb n="7" facs="tcp:179856:5"/>and thick on the belly, if lean the contrary, if limber footed new, if dry footed ſtale.</p>
+               <p>
+                  <hi>A Capon.</hi> If young the ſpurs are ſhort and blunt, his Legs ſmooth, but ſee they be natu<g ref="char:EOLhyphen"/>rally ſo, and not ſo ordered by the Poulterers knavery, if this be ſuſpected, pinch the breaſt, and if your thumb and fingers goes in eaſily, it is young, if not, it is old, if a true Capon, it will have a fat vein on the ſide of the breaſt, and a thick rump and belly, if ſtale it will have an open and looſe vent, if new a cloſe and hard one.</p>
+               <p>
+                  <hi>A Pullet.</hi> If a true one her legs and breaſt are ſmooth, &amp; in the breaſt ſhe pinches very tender, if with Egg the belly will feel ſoft, but if not more ſtrait, or if with Egg, the vent will be open, if not hard and cloſe, if new a hard vent, if ſtale an open one.</p>
+               <p>
+                  <hi>Turkey Cock, or Hen, Turkey Pouts.</hi> A Tur<g ref="char:EOLhyphen"/>key Cock young is known by the ſmoothneſs and blackneſs of his Leggs, and a ſhort ſpur, If new the Eyes will appear lively, the Foot limber; if ſtale the Eyes ſunk and the foot dry; The ſame obſerve by the Turkey Hen; but if ſhe be with Egg, ſhe will have a faſt open vent, but if not, her vent will be cloſe and hard, and ſo for newneſs and ſtaleneſs the Turkey-pout is known as the Cock.</p>
+               <pb n="8" facs="tcp:179856:6"/>
+               <p>
+                  <hi>A Cock.</hi> If his ſpurs naturally are ſhort and dub<g ref="char:EOLhyphen"/>ed he is young; if horny and ſharp old, if his ven<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be hard and faſt he is new if open and looſe ſtale.</p>
+               <p>
+                  <hi>Of a Gooſe.</hi> If the tame Gooſe has but a few hair and her bill and foot yellowiſh ſhe is young; bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> full of hairs and the bill and foot red denotes he <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> old: if new ſhe has limber foot, if ſtale a dry one.</p>
+               <p>A wild Gooſe, if red footed and full of hairs ſhe is old, but if white footed &amp; without hairs young. A braud Gooſe when pulled if ſmooth is young but hairy old; their newneſs or ſtaleneſs to be known as the firſt.</p>
+               <p>
+                  <hi>Chickens, Goſlings, young Ducklings.</hi> If dry pulled they are ſtiff, if new and a cloſe vent; if ſtale lim<g ref="char:EOLhyphen"/>ber and their vent greeniſh, if water pulled rub<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their breaſts with the tip of your finger, if new they are rough, but if ſtale they are ſlippery and clammy, ſo of Goſlings, green Geeſe, young Ducklings, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>A Swan.</hi> If old full of hairs, if young ſmooth, if new limber footed, if ſtale dry footed.</p>
+               <p>
+                  <hi>Pheaſant Cock or Hen.</hi> The firſt, if young has dubed ſpurs, but old ſmall and ſharp: If new a cloſe and firm vent, if ſtale an open and flaby vent.</p>
+               <p>The ſecond, if young has ſmooth Legs, and a curious fine grain of fleſh, if old hairy and rough legged, if with Egg a faſt open vent; if not a cloſe vent, as for new or ſtale the ſame with the Cock.</p>
+               <p>
+                  <hi>Heath and Pheaſant-pouts.</hi> Heath-pouts, if new will be ſtiff and white in the vent; if fat hard in the vent, if ſtale dry footed and hard in the vent and touched hard on the breaſt will peel, and the ſame tokens are to know the Pheaſant-pout.</p>
+               <pb n="9" facs="tcp:179856:6"/>
+               <p>
+                  <hi>The Buſtard,</hi> This in all reſpect is to be noted, and known as the Turkey.</p>
+               <p>
+                  <hi>The Partridge,</hi> If old their Bills will be white, and Legs of a blewiſh Colour; if young their Bills black, and Legs yellowiſh, If new a faſt vent, if ſtale a green and open one, and if touched will peel. Yet by feed<g ref="char:EOLhyphen"/>ing on green wheat their crops may be tain<g ref="char:EOLhyphen"/>ted though theſe marks diſcover it not, and to know it ſmell at the mouth.</p>
+               <p>
+                  <hi>Wood Cock and Snip.</hi> The Wood-cock, ſhows its farneſs by its thickneſs and hard<g ref="char:EOLhyphen"/>neſs, Youngneſs by the ſmoothneſs of its Legs, ſtaleneſs by the running of its Noſe, Moriſhneſs of its throat and dry footedneſs.</p>
+               <p>The <hi>Snipe</hi> if fat, has a fat vein on the in<g ref="char:EOLhyphen"/>ſide under the wing, and handles thick in the vent: The other marks obſerve as in the Wood-cock.</p>
+               <p>
+                  <hi>Of Doves. Pigeons, Plover,</hi> &amp;c. To diſtin<g ref="char:EOLhyphen"/>guiſh theſe and not be cheated. The Turtle Dove has a blewiſh Ring about its neck, and the other part moſtly white:</p>
+               <p>The Stock Dove, is larger then the wood Pigeon.</p>
+               <p>The Ring Dove, is leſs then the Stock Dove.</p>
+               <p>The Dovehouſe Pigeon is of a moderate ſize.</p>
+               <pb n="10" facs="tcp:179856:7"/>
+               <p>When old they are red Legged, if new and fat they feell full, and faſt in the vent; and are limber footed, but if ſtale have a flaby vent.</p>
+               <p>And by this rule you may know the good<g ref="char:EOLhyphen"/>neſs or badneſs of gray or green Plover, Thruſh, Tielfare, Mavis, Larks, Wood<g ref="char:EOLhyphen"/>larks, Black-birds, and all ſmall Birds what<g ref="char:EOLhyphen"/>ſoever,</p>
+            </div>
+            <div type="part">
+               <head>To know the Hare, Laveret, Rabbit, or Coney.</head>
+               <p>
+                  <hi>THe Hare.</hi> If new and clean killed it will be white and ſtiff, but ſtale the the fleſh blackiſh in many places and limber, if the cleft of her Lip ſpread much, and her claws are blunt ſhe is old, but if the contra<g ref="char:EOLhyphen"/>ry ſhe is young.</p>
+               <p>
+                  <hi>The Leveret:</hi> The Marks to be obſerved for the ſtaleneſs and newneſs is the ſame with the Hare: But to know whether it be a true Leveret feel the near foot, and if there be a ſmall bone or knob it is a true one, but if that is wanting 'tis a Hare.</p>
+               <p>
+                  <hi>The Rabbit or Coney.</hi> If new ſhe will be ſtiff and the fleſh white and dry, but if ſtale limber, the fleſh bluiſh and ſlimmy: If it be a right Coney, it will have a ſmall griſtly knot, on the outſide of the forefeet, a little
+<pb n="11" facs="tcp:179856:7"/>above the Joint, if old the claws will be long and rough, and long gray hairs ſtand out amongſt the wool; if fat your Eyes may in<g ref="char:EOLhyphen"/>form you by looking into her belly, if diſ<g ref="char:EOLhyphen"/>eaſed the Liver will be wateriſh or putrified.</p>
+            </div>
+            <div type="part">
+               <head>Fiſh new or ſtale, to diſtinguſh the kinds of a likeneſs, know their goodneſs, and of ſalted and pickled fiſh. <hi>&amp;c.</hi>
+               </head>
+               <p>A <hi>Lobſter.</hi> If this be new, the Tale will flap too when opened like a Spring, the Fiſh being boiled: If ſtale it will be limber. To know if it be full and not ſpent, open it on the knuckle or bending the Tail, and if there it fill, the ſhell be hard and riſe again when dented by your Finger it is full; but if papy and ſoft it is ſpent, and of no value: If you ſuſpect the clauſe to be filled with Wa<g ref="char:EOLhyphen"/>ter, pull out the plugs, and when at any time you buy, truſt not to the weight, but to your further ſearch.</p>
+               <p>
+                  <hi>Sturgeon good or bad.</hi> If it be bad, having loſt its pickle and made up again, it will crumble and grows rough between your Fin<g ref="char:EOLhyphen"/>ger and Thumb, the skin be rough and flob<g ref="char:EOLhyphen"/>by; but if good, it will cut like Wax, feel oylly, have ſome ſmall blew griſtles or ſin-news like Veins, ſtreaking here and there;
+<pb n="12" facs="tcp:179856:8"/>which in the bad will look dusky, or of a ruſty colour: If good the skin is tough and firm, having a fat oyly ſubſtance under it, not eaſily parted from the fleſh, which will look white and caſt a pleaſing ſcent, the flakes not opening kindly.</p>
+               <p>
+                  <hi>Boild Salmon.</hi> If good the ſcales will be of a bright azure colour, ſhining and many ſtanding up, the Fiſh of a bluſhing colour, hard or firm, oylly and the flakes parting kindly. If bad, brittle and rough; if long boiled and ſtanding without pickle, clammy and of a faint ſcent.</p>
+               <p>
+                  <hi>Prawns and ſhrimps.</hi> If new their Tails bending ſtiffly inward hard and well ſcented if ſtale the Tails limber, of a faint ſmell, the Eyes looſe and ſinking.</p>
+               <p>
+                  <hi>Crabs great and ſmall.</hi> If new the claws ſtiff, the Eyes not eaſily moved, and of a bright red, where the parts are to be red the ſcent under the Throat pleaſant, but the con<g ref="char:EOLhyphen"/>trary of theſe Signs denotes them to be ſtale boiled and nought.</p>
+               <p>
+                  <hi>Place and Flounders.</hi> If they are not alive and you ſuſpect them ſtale, it is known by their limberneſs, the ſhirvling of their ſins, dulneſs &amp; ſinking of their Eyes, &amp; a greenneſs where the guts ly, a clammyneſs over them
+<pb n="13" facs="tcp:179856:8"/>if not juſt waſhed; if they are new, they will be ſtiff, their Eyes look well, and all the contrary appear.</p>
+               <p>To know theſe aſſunder, the place is ſpotted with red or orange coloured ſpots on the Back the Belly of an earthy white, the Flounder is without ſpots clouded on the Back, and the Belly of a whitiſh inclyning azure.</p>
+               <p>
+                  <hi>Maids and Thorn-back.</hi> If ſtale their Eyes dull ſinking low, their vents flabby and ſlim<g ref="char:EOLhyphen"/>my, and they limber, their Bellies changing to greeniſh. Theſe are ſuppoſed to be one and the ſame Fiſh, but the Maid growing old, has knobs and prickles ſprouting on her Back; and then is cold a Thorn-back.</p>
+            </div>
+            <div type="part">
+               <head>Breem, Pike, Carp. Grayhing, Mullet, Terch, Barble, Trout, Whiting, Roach, Dace, Smelts, Eels, and the like.</head>
+               <p>TO know theſe or any the like Fiſh if ſtale, look if their Eyes appear dull, and ſinking, their fins cripling up their Bodies, particularly their Tailes limber, and a clam<g ref="char:EOLhyphen"/>myneſs about their mouths, their vents flabby and open; they then are ſtale, but the contrary marks ſhow them not to have been long dead, and that however they may ſpend well enough if not long keept.</p>
+               <pb n="14" facs="tcp:179856:9"/>
+               <p>
+                  <hi>Herrings and Macrel.</hi> Theſe growing ſtale looſe the redneſs about the Gills, and their bright ſhining colour grows limber, their Eyes dull and ſinking, their fins contract and the water ſuccers within their Gills grow blackiſh or a dusky red, and of an ill ſcent; their bellies grow looſe and their vent Flaby.</p>
+               <p>
+                  <hi>Salt Cod and old Ling.</hi> Theſe are good if pinching up the Flakes, they riſe well, and feel oylly; when the bone parts clean from the Fleſh and they have a true colour and ſcent: But if the fleſh be rough, crumbling the skin crackling or ſhivering: Then they have been ill cured, or met with ſome miſchance, ſo that they are good for little and to be reje<g ref="char:EOLhyphen"/>cted.</p>
+            </div>
+            <div type="part">
+               <head>Other Marketings, as how to chuſe Butter, Cheeſe, Bread; Engliſh and outlandiſh Fruits, and not be cheated.</head>
+               <p>OF <hi>Butter.</hi> When you buy Butter, re<g ref="char:EOLhyphen"/>ceive not the taſte from the Teller, but with a knife take it your ſelf, for many times there is a good bit placed to decoy you, when all the reſt is bad, perhaps made up of rank ſalt Butter, by working of it in water, which takes out the Salt and rank ſmell but leanneſs little or no nouriſhment in the Butter,
+<pb n="15" facs="tcp:179856:9"/>ſo that melted it turns to greaſie oyl or whey<g ref="char:EOLhyphen"/>iſh ſubſtance.</p>
+               <p>If you buy ſalt Butter, and it be in cask, thruſt your Knife in the cleft about the middle of the cask, ſome hoops being taken off to prevent being cheated by the tops being pack<g ref="char:EOLhyphen"/>ed; and ſmell preſently to it, if it has a ſtrong ſmell it is rank and nought.</p>
+               <p>
+                  <hi>Of Eggs.</hi> If you have not an oppertunity to caudle them hard, then put againſt the Sun, if the Whites look of a Muddy or Dusky colour; the Yolk, not lying even in the middle, or broken they once decaying, if not already ad<g ref="char:EOLhyphen"/>dled, if you have none of theſe Advantages; ſhake them, and if they ſquaſh or ſwag much, they are ſtale and waſted if not addled; though indeed, new Eggs may a little ſhake, though little to be heard or felt.</p>
+               <p>
+                  <hi>Of Cheeſe,</hi> If the larger ſort of Cheeſe be rug<g ref="char:EOLhyphen"/>ed or rough coated, try it well, leaſt there be Worms or Weavels in it, or little Mites. If it be over moiſt and ſpungy, it is ſubject to May<g ref="char:EOLhyphen"/>ots, the effects of ill making; if it appear to be periſhed, try the extent of it with the Cheeſe Iron, that you may know what you buy, and not be impoſed on.</p>
+               <p>
+                  <hi>Of Bread,</hi> If you find little knobs in your Bread, old ſtale or muſty Bread has been maſh<g ref="char:EOLhyphen"/>ed among it: If it taſte ſweet, it is grown Corn: If gritty, it is made of ſmotty waſhed Corn. And none of theſe are very nouriſhing, &amp; there<g ref="char:EOLhyphen"/>fore to be eſchewed: If Rye be mixed with
+<pb n="16" facs="tcp:179856:10"/>Wheat, it will be known by the over moiſtneſs and any reaſonable Pallat may taſte it.</p>
+               <p>
+                  <hi>Of Fruits.</hi> If pulling the ſtalks of Pears o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Apples, they come out without breaking the Fruit, is rotten at core, how ſound ſoever i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> appear outwardly, for muſtineſs ſmall at top and if any, it will there give you the Sent.</p>
+               <p>Pricked Oranges and Lemons, are known by the Softneſs and ſome Spots, alſo a fading of the Colour, the fullneſs and emptyneſs by the Ballance of the Hand; If the Seed in Pom<g ref="char:EOLhyphen"/>granets, rather they are waſted: If a Melleon be Hollow, the top end will be rough, and rived.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179856:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
